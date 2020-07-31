@@ -1,0 +1,201 @@
+
+
+
+.topbar {
+    background-color: #4860fa;
+    font-size: 50px;
+    
+}
+
+#name {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#name:hover, #name:focus {
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+}
+#about {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#about:hover, #about:focus {
+    font-size: 30px;
+    color: black;
+}
+#work {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#work:hover, #work:focus {
+    font-size: 30px;
+    color: black;
+}
+#contact {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#contact:hover, #contact:focus {
+    font-size: 30px;
+    color: black;
+}
+#resume {
+    color: black;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#resume:hover, #resume:focus {
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+@media (max-width:1500px) {
+    .topbar {
+        background-color: #4860fa;
+        font-size: 50px;
+        
+    }
+    
+    #name {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 30px;
+        margin: 15px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #name:hover, #name:focus {
+        color: black;
+        font-size: 35px;
+        margin: 0px;
+    }
+    #about {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #about:hover, #about:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: black;
+    }
+    #work {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #work:hover, #work:focus {
+        font-size: 30px;
+        margin-left: 100;
+        color: black;
+    }
+    #contact {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #contact:hover, #contact:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: black;
+    }
+    #resume {
+        color: black;
+        background-color: #4860fa;
+        font-size: 30px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #resume:hover, #resume:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: whitesmoke;
+    }
+
+
+
+    .btn {
+        background-color: DodgerBlue;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 20px;
+        
+    }
+      
+      /* Darker background on mouse-over */
+      .btn:hover {
+        background-color: RoyalBlue;
+    
+    }
+      
+}

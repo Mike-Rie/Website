@@ -1,0 +1,195 @@
+
+
+
+.topbar {
+    background-color: #4860fa;
+    font-size: 50px;
+    
+}
+
+#name {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#name:hover, #name:focus {
+   
+    color: black;
+}
+#about {
+    color: black;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#about:hover, #about:focus {
+   
+    color: whitesmoke;
+}
+#work {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#work:hover, #work:focus {
+    font-size: 30px;
+    color: black;
+}
+#contact {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#contact:hover, #contact:focus {
+    
+    color: black;
+}
+#resume {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#resume:hover, #resume:focus {
+   
+    color: black;
+}
+
+@media (max-width: 1500px) {
+.topbar {
+    background-color: #4860fa;
+    font-size: 50px;
+    
+}
+
+#name {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#name:hover, #name:focus {
+   
+    color: black;
+}
+#about {
+    color: black;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    margin-left: 150px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#about:hover, #about:focus {
+   
+    color: whitesmoke;
+}
+#work {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 150px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#work:hover, #work:focus {
+    font-size: 30px;
+    margin-left: 100px;
+    color: black;
+}
+#contact {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 150px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#contact:hover, #contact:focus {
+    font-size: 30px;
+    margin-left: 100px;
+    color: black;
+}
+#resume {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 150px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#resume:hover, #resume:focus {
+    font-size: 30px;
+    margin-left: 100px;
+    color: black;
+}
+
+#pose {
+    width: 40%;
+    margin: 10px;
+    
+    
+}
+#words {
+    float:left;
+    width: 600px;
+    font-size: 20px;
+    margin: 10px;
+}
+.description {
+    flex-wrap: wrap;
+}
+}

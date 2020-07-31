@@ -1,0 +1,209 @@
+
+
+
+.topbar {
+    background-color: #4860fa;
+    font-size: 50px;
+    
+}
+
+#name {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#name:hover, #name:focus {
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+}
+#about {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#about:hover, #about:focus {
+    font-size: 30px;
+    color: black;
+}
+#work {
+    color: black;
+    background-color: #4860fa;
+    font-size: 30px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#work:hover, #work:focus {
+    font-size: 30px;
+    color: whitesmoke;
+}
+#contact {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#contact:hover, #contact:focus {
+    font-size: 30px;
+    color: black;
+}
+#resume {
+    color: whitesmoke;
+    background-color: #4860fa;
+    font-size: 20px;
+    margin: 15px;
+    margin-left: 200px;
+    border: none;
+    font-family: 'Volkhov', serif;
+    transition-duration: 0.5s;
+
+}
+
+#resume:hover, #resume:focus {
+    font-size: 30px;
+    color: black;
+}
+
+@media (max-width: 1500px) {
+    .topbar {
+        background-color: #4860fa;
+        font-size: 50px;
+        
+    }
+    
+    #name {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 30px;
+        margin: 15px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #name:hover, #name:focus {
+        color: black;
+        font-size: 35px;
+        margin: 0px;
+    }
+    #about {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #about:hover, #about:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: black;
+    }
+    #work {
+        color: black;
+        background-color: #4860fa;
+        font-size: 30px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #work:hover, #work:focus {
+        font-size: 30px;
+        color: whitesmoke;
+    }
+    #contact {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #contact:hover, #contact:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: black;
+    }
+    #resume {
+        color: whitesmoke;
+        background-color: #4860fa;
+        font-size: 20px;
+        margin: 15px;
+        margin-left: 150px;
+        border: none;
+        font-family: 'Volkhov', serif;
+        transition-duration: 0.5s;
+    
+    }
+    
+    #resume:hover, #resume:focus {
+        font-size: 30px;
+        margin-left: 100px;
+        color: black;
+    }
+    #science {
+        width: 20%;
+        margin: 10px;
+        float:left;
+    }
+    .border {
+        width: 100px;
+        height: 10px;
+    }
+
+        
+    }
+    .science {
+        font-family: 'Volkhov', serif;
+        
+
+
+    }
+    #scitext {
+        width: 700px;
+        margin-top: 20px;
+        
+        
+        border-style: 
+        
+        
+    }
+
+}
